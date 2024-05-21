@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Adele",
+      "birth_date": "1988-05-05",
+      "Position": "Singer",
+      "International": "United Kingdom",
+      "Team": "Solo Artist",
+      "Poster": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/7D4B/production/_121557023_adele1.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Taylor Swift",
+      "birth_date": "1989-12-13",
+      "Position": "Singer",
+      "International": "United States",
+      "Team": "Solo Artist",
+      "Poster": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2023/08/10/taylor-swift-3169402579.png"
+    },
+    {
+      "no": "3",
+      "name": "Beyoncé",
+      "birth_date": "1981-09-04",
+      "Position": "Singer",
+      "International": "United States",
+      "Team": "Solo Artist",
+      "Poster": "https://variety.com/wp-content/uploads/2020/04/Beyonce-Grammy-Win.jpg?w=1000"
+    },
+    {
+      "no": "4",
+      "name": "Ed Sheeran",
+      "birth_date": "1991-02-17",
+      "Position": "Singer",
+      "International": "United Kingdom",
+      "Team": "Solo Artist",
+      "Poster": "https://cdn.antaranews.com/cache/1200x800/2023/04/28/8A4CD4C3-4EC4-43E1-BE4C-F208C1F85664.jpeg"
+    },
+    {
+      "no": "5",
+      "name": "Billie Eilish",
+      "birth_date": "2001-12-18",
+      "Position": "Singer",
+      "International": "United States",
+      "Team": "Solo Artist",
+      "Poster": "https://awsimages.detik.net.id/community/media/visual/2022/05/03/kontroversi-met-gala-2022-1_43.jpeg?w=1200"
+    },
+    {
+      "no": "6",
+      "name": "Bruno Mars",
+      "birth_date": "1985-10-08",
+      "Position": "Singer",
+      "International": "United States",
+      "Team": "Solo Artist",
+      "Poster": "https://cms.disway.id/uploads/a031e254a16796ed011c6a0d51c26209.jpeg"
+    },
+    {
+      "no": "7",
+      "name": "Ariana Grande",
+      "birth_date": "1993-06-26",
+      "Position": "Singer",
+      "International": "United States",
+      "Team": "Solo Artist",
+      "Poster": "https://www.billboard.com/wp-content/uploads/2022/08/Ariana-Grande-the-voice-2021-billboard-1548.jpg?w=875&h=583&crop=1"
+    },
+    {
+      "no": "8",
+      "name": "Shawn Mendes",
+      "birth_date": "1998-08-08",
+      "Position": "Singer",
+      "International": "Canada",
+      "Team": "Solo Artist",
+      "Poster": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/06/15/shawnmendes_306731134_4516989469-20230615093004.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Dua Lipa",
+      "birth_date": "1995-08-22",
+      "Position": "Singer",
+      "International": "United Kingdom",
+      "Team": "Solo Artist",
+      "Poster": "https://awsimages.detik.net.id/community/media/visual/2024/02/05/dua-lipa-datang-bersama-ayahnya-dukagjin-lipa-ke-grammy-awards-2024-1_169.jpeg?w=700&q=90"
+    },
+    {
+      "no": "10",
+      "name": "Justin Bieber",
+      "birth_date": "1994-03-01",
+      "Position": "Singer",
+      "International": "Canada",
+      "Team": "Solo Artist",
+      "Poster": "https://cdn0-production-images-kly.akamaized.net/lAwg7hTsuTRr7ft5WWMFuXwBE7g=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4770369/original/007119400_1710260296-justinbieberbe_1200x600.jpg"
+    }
+  ]
+}
